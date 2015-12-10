@@ -52,7 +52,7 @@
 
 	"NO_STREAM": "Ingen tilgængelige streams",
 	"STILL_IN_THEATER": "Film stadig i biografen",
-	"WATCH_IN_CINEMA": "se den i din lokale biograf",
+	"WATCH_IN_CINEMA": "se den i biografen",
 	"CHANNEL_NOT_SCRAPED": "Denne kanal er ikke indekseret endnu.<br>Kom tilbage om et par minutter.",
 	"ADD_TO_LIBRARY_TO_GET_NOTIFIED": "Tilføj til dit bibliotek og bliv notificeret når den er tilgængelig",
 	"GET_NOTIFIED_WHEN_AVAILABLE": "Du vil blive notificeret når den er tilgængelig",
@@ -71,7 +71,7 @@
 	"PLAYING_LOCAL": "afspiller fra lokal fil",
 	"PLAYING_CACHE": "afspiller fra cache",
 
-	"WRONG_SUBS": "Forkert tekst?",
+	"WRONG_SUBS": "Forkerte undertekster?",
 
 	"CHOOSE_DEVICE": "Vælg enhed at afspille på",
 	
@@ -94,7 +94,7 @@
 	"SORT_YEAR": "år",
 
 	"DISCOVER_TOP": "Populære",
-	"DISCOVER_OSCAR": "Oscar Vindere",
+	"DISCOVER_OSCAR": "Oscarvindere",
 
 	"DISCOVER_NOADDON_WARNING": "Advarsel: intet Streamio addon aktiveret for denne type. Viser gemte ting, intet vil blive opdateret.",
 
@@ -139,7 +139,7 @@
 	"SETTINGS_IMPORT_FB": "Importer fra Facebook",
 	"SETTINGS_IMPORT_DISK": "Importer fra computer",
 	"SETTINGS_SUBSCRIBE_CALENDAR": "Abonner på kalender",
-	"SETTINGS_CHANGE_PASSWORD": "Ændre kodeord",
+	"SETTINGS_CHANGE_PASSWORD": "Ændr dit kodeord",
 	"SETTINGS_TOS": "Servicevilkår",
 	"SETTINGS_SUPPORT": "Kontakt support",
 	"SETTING_LANGUAGE": "Sprog",
@@ -244,7 +244,7 @@
 	"News Radio": "Nyheds Radio",
 	"Music Radio": "Musik Radio",
 	"Language Learning": "Sprog & Læring",
-	"Science Radio": "Videnskabs Radio",
+	"Science Radio": "Videnskabelig Radio",
 	"Tech Radio": "Teknologi Radio",
 	"Science & Technology Vod": "Videnskab & Teknologi VOD"
 
